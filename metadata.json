@@ -1,0 +1,6 @@
+{
+  "name": "AutoBOX Ungheni",
+  "description": "Platformă integrată pentru management autoservice cu Portal Client (programări, istoric, urmărire status în timp real) și modul ERP/CRM (fișe de service, stocuri, resurse umane, financiar).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
